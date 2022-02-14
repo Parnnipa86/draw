@@ -1,0 +1,11 @@
+C:\Users\ASUS\Desktop\CIS\graphics\draw\draw\bin\Debug\draw.exe.config
+C:\Users\ASUS\Desktop\CIS\graphics\draw\draw\bin\Debug\draw.exe
+C:\Users\ASUS\Desktop\CIS\graphics\draw\draw\bin\Debug\draw.pdb
+C:\Users\ASUS\Desktop\CIS\graphics\draw\draw\obj\Debug\draw.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\CIS\graphics\draw\draw\obj\Debug\draw.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Desktop\CIS\graphics\draw\draw\obj\Debug\draw.Form1.resources
+C:\Users\ASUS\Desktop\CIS\graphics\draw\draw\obj\Debug\draw.Properties.Resources.resources
+C:\Users\ASUS\Desktop\CIS\graphics\draw\draw\obj\Debug\draw.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\CIS\graphics\draw\draw\obj\Debug\draw.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\CIS\graphics\draw\draw\obj\Debug\draw.exe
+C:\Users\ASUS\Desktop\CIS\graphics\draw\draw\obj\Debug\draw.pdb
